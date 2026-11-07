@@ -1,0 +1,4 @@
+road_type,total_accidents,total_casualties,average_risk_score
+urban,6745,11679,0.44059303187546334
+rural,6639,11431,0.43465883416177137
+highway,6616,11419,0.43745465538089484

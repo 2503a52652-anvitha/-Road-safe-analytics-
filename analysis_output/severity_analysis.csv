@@ -1,0 +1,4 @@
+accident_severity,total_accidents,total_casualties,average_risk_score
+minor,11025,16612,0.40824036281179144
+major,5988,8951,0.40684702738810957
+fatal,2987,8966,0.6075159022430533

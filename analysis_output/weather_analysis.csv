@@ -1,0 +1,4 @@
+weather,total_accidents,total_casualties,average_risk_score
+clear,6690,11491,0.23687593423019432
+rain,6677,11636,0.48814587389546205
+fog,6633,11402,0.5891225689733153
