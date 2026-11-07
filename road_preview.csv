@@ -1,0 +1,6 @@
+﻿"accident_id","city","state","latitude","longitude","date","time","hour","day_of_week","is_weekend","road_type","lanes","traffic_signal","weather","visibility","temperature","traffic_density","cause","accident_severity","vehicles_involved","casualties","is_peak_hour","festival","risk_score"
+"0","Pune","Maharashtra","18.680827","73.930388","2023-10-22","5:00","5","Sunday","1","highway","3","1","fog","low","32","high","weather","fatal","2","2","0","None","0.85"
+"1","Mumbai","Maharashtra","18.817732","72.790846","2023-05-21","4:00","4","Sunday","1","urban","4","0","clear","high","34","low","weather","major","4","3","0","None","0.1"
+"2","Mumbai","Maharashtra","19.096889","72.819424","2024-07-10","13:00","13","Wednesday","0","urban","3","0","fog","low","21","medium","weather","minor","1","1","0","None","0.45"
+"3","Chandigarh","Punjab","30.787805","76.847507","2025-03-30","11:00","11","Sunday","1","urban","1","1","fog","low","30","high","distraction","minor","5","2","0","None","0.65"
+"4","Chennai","Tamil Nadu","12.965155","80.283313","2024-01-25","16:00","16","Thursday","0","highway","3","1","clear","high","24","low","distraction","minor","2","1","0","None","0.1"
