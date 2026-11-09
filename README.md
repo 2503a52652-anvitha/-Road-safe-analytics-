@@ -28,10 +28,3 @@ python data_visualisation.py
 - `accident_hotspots_map.html`: interactive accident location map
 
 The dataset contains observational records; charts describe patterns in the supplied data and do not establish causes.
-
-## Exploratory notebooks
-
-- `clean_data.ipynb`: dataset cleaning exploration
-- `road.ipynb`: road accident analysis notebook
-- `data_visulazation.ipynb`: visualization notebook
-- `dataanalysis&visualization.ipynb`: combined analysis and visualization notebook
